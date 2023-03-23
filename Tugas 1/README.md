@@ -1,5 +1,6 @@
 # Tugas 1 
 # Fisika Komputasi
+### Julian Evan Chrisnanto | 140310200025
 
 Buatlah 3-buah Fungsi Syarat Batas dan 3-buah Gaya<br>
 untuk kasus gerak peluru 2D. Buat Flowchart keseluruhannya<br>
